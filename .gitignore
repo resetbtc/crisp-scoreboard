@@ -1,0 +1,8 @@
+.cache/
+partidas/
+salida/
+*.mp4
+*.mov
+.env
+__pycache__/
+ejemplo/tarjetas/

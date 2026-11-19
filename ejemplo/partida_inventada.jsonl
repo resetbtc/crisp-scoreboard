@@ -1,0 +1,14 @@
+{"k": "ini", "t": 1700000000000, "riotId": "Jugador#EJEM"}
+{"k": "todo", "t": 1700000000000, "gt": 0.0, "d": {"allPlayers": [{"riotIdGameName": "Jugador", "team": "ORDER", "championName": "Talon"}, {"riotIdGameName": "Aliado1", "team": "ORDER", "championName": "Ahri"}, {"riotIdGameName": "Aliado2", "team": "ORDER", "championName": "Jinx"}, {"riotIdGameName": "Aliado3", "team": "ORDER", "championName": "Lulu"}, {"riotIdGameName": "Aliado4", "team": "ORDER", "championName": "Jayce"}, {"riotIdGameName": "Rival1", "team": "CHAOS", "championName": "Zed"}, {"riotIdGameName": "Rival2", "team": "CHAOS", "championName": "Lux"}, {"riotIdGameName": "Rival3", "team": "CHAOS", "championName": "Ezreal"}, {"riotIdGameName": "Rival4", "team": "CHAOS", "championName": "Thresh"}, {"riotIdGameName": "Rival5", "team": "CHAOS", "championName": "Garen"}]}}
+{"k": "m", "t": 1700000001000, "gt": 1.0, "kda": [0, 0, 0], "cs": 0}
+{"k": "e", "t": 1700000300000, "gt": 300, "ev": {"EventName": "ChampionKill", "EventTime": 300, "KillerName": "Jugador", "VictimName": "Rival1", "Assisters": []}}
+{"k": "m", "t": 1700000300300, "gt": 300.3, "kda": [1, 0, 0], "cs": 80}
+{"k": "e", "t": 1700000420000, "gt": 420, "ev": {"EventName": "ChampionKill", "EventTime": 420, "KillerName": "Rival2", "VictimName": "Aliado1", "Assisters": []}}
+{"k": "m", "t": 1700000420300, "gt": 420.3, "kda": [1, 0, 0], "cs": 80}
+{"k": "e", "t": 1700000560000, "gt": 560, "ev": {"EventName": "ChampionKill", "EventTime": 560, "KillerName": "Aliado2", "VictimName": "Rival3", "Assisters": ["Jugador"]}}
+{"k": "m", "t": 1700000560300, "gt": 560.3, "kda": [1, 0, 1], "cs": 80}
+{"k": "e", "t": 1700000705000, "gt": 705, "ev": {"EventName": "ChampionKill", "EventTime": 705, "KillerName": "Jugador", "VictimName": "Rival4", "Assisters": []}}
+{"k": "m", "t": 1700000705300, "gt": 705.3, "kda": [2, 0, 1], "cs": 80}
+{"k": "m", "t": 1700000710200, "gt": 710.2, "kda": [3, 0, 1], "cs": 90}
+{"k": "e", "t": 1700000712000, "gt": 712, "ev": {"EventName": "ChampionKill", "EventTime": 712, "KillerName": "Jugador", "VictimName": "Rival5", "Assisters": ["Aliado3"]}}
+{"k": "m", "t": 1700000712300, "gt": 712.3, "kda": [3, 0, 1], "cs": 90}
