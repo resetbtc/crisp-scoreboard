@@ -2,6 +2,10 @@
 
 **English** · [Español](#español)
 
+![Before: the game's scoreboard stretched for a vertical video. After: crisp-scoreboard](docs/antes-despues.png)
+
+<sub>Made-up match from `ejemplo/` (`python ejemplo/antes_despues.py`). The icons and the "before" font are Riot Games' assets, used under Riot Games' "Legal Jibber Jabber" policy; Riot Games does not endorse or sponsor this project. / Partida inventada del ejemplo; los iconos y la letra del «antes» son de Riot Games.</sub>
+
 The League of Legends top-right scoreboard (team kills, K/D/A, creep score and game clock), redrawn crisp with the real numbers, for vertical videos or any edit.
 
 In a 1080p video that scoreboard is 375x26 pixels. Blown up for a vertical video it turns into mush. crisp-scoreboard redraws it at the size you need: same order, same colors, the game's own icons (scaled by whole pixels, never smoothed) and every number checked against the video.
